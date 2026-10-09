@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1773873539" />
+    <testcase name="test_cache_good" classname="test.test_cache_good" file="/home/robot/tiny-gpu/test/test_cache_good.py" lineno="8" time="3.641900062561035" sim_time_ns="47400001.0" ratio_time="13015184.432784148" />
+  </testsuite>
+</testsuites>
